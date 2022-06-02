@@ -1,4 +1,4 @@
 #Descritpion 
 
 
-This is an app which calculating the bank rates 
+This is an app which calculate the bank rates 
